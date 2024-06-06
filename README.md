@@ -1,3 +1,3 @@
 - Hi, I’m Aniruddha 👋 
-- Data Engineering Lead.
+- Analyst B1 (Data Engineering)
 - Reach me at aniruddha.potdar@rudderanalytics.com 
